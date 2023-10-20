@@ -1,2 +1,2 @@
 # Test
-getting started with CI/CD using Github actions 
+getting started with CI/CD using GitHub actions 
